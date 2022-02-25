@@ -1,0 +1,6 @@
+ {
+     "NWB_SOURCE": "/Users/akhambhati/Hoth/Mounts/TDTSynapseStim_prcsd",
+     "NWB_CORE": "/Users/akhambhati/Hoth/Mounts/CORE.iEEG.StimTimescale",
+     "NWB_RSRCH": "/Users/akhambhati/Hoth/Mounts/RSRCH.iEEG.StimTimescale",
+     "SUBJECTS_DIR": "/Users/akhambhati/Hoth/Remotes/CORE.FS_Imaging"
+  }
